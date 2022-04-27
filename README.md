@@ -6,7 +6,7 @@
 
 - 🧐 Developing myself as a Data Scientist
 
-- 🎓 International business technician and chemistry technician
+- 🎓 I’m an undergraduate student of Analysis and Systems Development at Faculdade La Salle
 
 - 💼 I’m currently working on Visonet Tecnologia da Informação Ltda
 
