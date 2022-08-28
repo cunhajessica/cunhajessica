@@ -4,7 +4,7 @@
 
 
 
-- 🧐 Developing myself as a Data Scientist
+- 🧐 Developing myself as a Data Scientist and Software Developer
 
 - 🎓 I’m an undergraduate student of Analysis and Systems Development at Faculdade La Salle
 
