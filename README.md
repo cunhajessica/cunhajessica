@@ -8,9 +8,9 @@
 
 - 🎓 I’m an undergraduate student of Analysis and Systems Development at Faculdade La Salle
 
-- 💼 I’m currently working on Visonet Tecnologia da Informação Ltda
+- 💼 I’m currently working on Capgemini Brasil S.A.
 
-- 🌱 Learning more about Python, Data Science and AI
+- 🌱 Learning more about Cloud, Python, Data Science and AI
 
 <h3 align="left">🚀</h3>
 <p align="left">
