@@ -6,7 +6,7 @@
 
 - 🧐 Developing myself as a Data Scientist and Software Developer
 
-- 🎓 I’m an undergraduate student of Analysis and Systems Development at Faculdade La Salle
+- 🎓 I’m an undergraduate student of Analysis and Systems Development at Faculdade Anhanguera
 
 - 💼 I’m currently working on Capgemini Brasil S.A.
 
